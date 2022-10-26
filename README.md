@@ -1,6 +1,6 @@
 # Car-Sales-Price-Prediction 
 
-This project focuses on the care sales dataset and the
+This project focuses on the car sales dataset and the
 algorithm required to obtain the desired prediction. The data set is officially collected from cars24.com which describes the selling
 price of second-hand vehicles based on other parameters such as mileage, km_driven etc. The purpose of this study is to discuss different algorithms that can
 be applied to obtain the prediction and the variance of the data.
