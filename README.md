@@ -5,7 +5,7 @@ algorithm required to obtain the desired prediction. The data set is officially 
 price of second-hand vehicles based on other parameters such as mileage, km_driven etc. The purpose of this study is to discuss different algorithms that can
 be applied to obtain the prediction and the variance of the data.
 
-Roles & Responsibilities:
+Process:
 
 • Complete data preprocessing, which included removal of not significant parameters, handling null values, etc.
 
